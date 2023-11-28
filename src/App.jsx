@@ -1,4 +1,3 @@
-import './App.css'
 import NumPadOperator from './components/NumPadOperator'
 import Display from './components/Display'
 
